@@ -1,0 +1,7 @@
+deploy:
+  import:
+    preserveProvider: true
+    rotateRevision: false
+    update: true
+name: API-12
+version: 1.0.0
