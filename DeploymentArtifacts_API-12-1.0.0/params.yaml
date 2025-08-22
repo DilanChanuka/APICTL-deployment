@@ -1,11 +1,9 @@
 environments:
-    - name:
+    - name: prod2
       configs:
           endpoints:
               production:
-                  url:
               sandbox:
-                  url:
           security:
               enabled:
               type:
